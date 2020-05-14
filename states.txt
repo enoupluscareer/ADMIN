@@ -1,6 +1,6 @@
 [
   {
-    "u":"http://www.enouplus.xyz/"
+    "u":"http://www.enouplus.xyz/ENOUPLUSCAREER/"
   },
   {
     "t":"Karnataka",
