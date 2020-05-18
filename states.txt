@@ -1,23 +1,17 @@
 [
   {
-    "u":"http://www.enouplus.xyz/ENOUPLUSCAREER/"
+    "u":"http://enouplus.xyz/EPCAREER/"
   },
   {
     "n":"Karnataka",
-    "b":"Kannada",
     "r":"KA",
+    "b":"KA",
     "a":"ca-app-pub-3940256099942544/1033173712"
   },
   {
     "n":"Tamil Nadu",
-    "b":"Tamil",
     "r":"TN",
-    "a":"ca-app-pub-3940256099942544/1033173712"
-  },
-  {
-    "n":"Madya Pradesh",
-    "b":"Hindi",
-    "r":"MP",
+    "b":"TN",
     "a":"ca-app-pub-3940256099942544/1033173712"
   }
 ]
