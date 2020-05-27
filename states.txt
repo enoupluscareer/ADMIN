@@ -1,6 +1,6 @@
 [
   {
-    "u": "https://enoupluscareer.github.io/"
+    "u": "https://enoupluscareer.github.io/S/"
   },
   {
     "n": "Andaman and Nicobar Islands",
